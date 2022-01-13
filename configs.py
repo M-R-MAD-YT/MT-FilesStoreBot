@@ -30,28 +30,30 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 📡 **Hosted on:** [Heroku](https://heroku.com)
 
-🧑🏻‍ **Developer:** @AbirHasan2005
+🧑🏻‍ **Developer:** @Aswin_116
 
-👨‍💻 **Editing:** @Mrk_YT
+👨‍💻 **Editing:** @MrMaDYt
 
-📺 **Support:** [YouTube Channel](https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ)
+📺 **Support:** [YouTube Channel](https://youtube.com/channel/UCEK86p-F18gR-zd9LwLH4Gw)
 
-🗣️ **Any Doubt:** @Mo_Tech_Group
+🗣️ **Any Doubt:** @MAD_YT_001
 
 📢 **Updates Channel:** [Discovery Projects](https://t.me/Mo_Tech_YT)
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍ **Developer:** @AbirHasan2005
+🧑🏻‍ **Developer:** @Aswin_116
 
-💻 **Developer Details:** [Clcik Here](https://github.com/MoTechYT/MT-FilesStoreBot/blob/main/README.md)
+💻 **Developer Details:** [Clcik Here](https://github.com/M-R-MAD-YT/MT-FilesStoreBot)
 
-👨‍💻 **Editing:** @Mrk_YT
+👨‍💻 **Editing:** @MrMaDYt
 
-🗣️ **Any Doubt:** @Mo_Tech_Group
+🗣️ **Any Doubt:** @MAD_YT_001
 
-📺 **Support :** [YouTube Channel](https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ)
 
-📢 **Updates Channel:** [Discovery Projects](https://t.me/Mo_Tech_YT)
+
+📺 **Support :** [YouTube Channel](https://youtube.com/channel/UCEK86p-F18gR-zd9LwLH4Gw)
+
+📢 **Updates Channel:** [Discovery Projects](https://t.me/NETFLIXINDIA2022)
 
 Donate Now (coming soon)
 """
